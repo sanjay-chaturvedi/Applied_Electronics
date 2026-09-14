@@ -1,3 +1,13 @@
-This circuit is used to generate a delayed pulse from a clock pulse and the both the pulses can be used in any applications such as gating circuits.
+This circuit is used to generate a delayed pulse from an input pulse and the both the pulses can be used in applications such as in gating circuits.
 
-CREDITS: The circuit is directly taken from the works of Dean T. Anderson, Collins Radio, Cedar Rapids, Iowaa, 1975.
+
+
+
+
+## Attributions & References
+The circuit topologies in this repository are modeled after functional concepts found in:
+* **Book:** Circuit Design Idea Handbook
+* **Editor:** Bill Furlow (1974)
+* **Publisher:** Cahners Books
+
+*Note: All schematics and simulation files have been independently recreated from scratch in [Your Software Name]. No original text or graphics from the textbook have been reproduced.*
